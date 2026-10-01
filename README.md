@@ -34,9 +34,3 @@ An end-to-end business intelligence and data engineering pipeline transforming 1
 ## 🛠️ Tech Stack & Setup
 * **Languages:** Python (Pandas, SQLAlchemy, psycopg2), SQL (PostgreSQL 16), DAX
 * **Tools:** Power BI Desktop, pgAdmin 4, VS Code, Git/GitHub
-
-### Reproducing Locally
-1. Clone the repo:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/ecommerce-analytics-pipeline.git](https://github.com/YOUR_USERNAME/ecommerce-analytics-pipeline.git)
-   cd ecommerce-analytics-pipeline
